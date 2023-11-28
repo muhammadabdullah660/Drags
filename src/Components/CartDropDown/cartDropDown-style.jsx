@@ -23,7 +23,7 @@ export const CartDropDownContainer = styled.div`
   }
 `;
 
-export cons CartItemsContainer = styled.div`
+export const CartItemsContainer = styled.div`
   height: 100%;
   display: flex;
   flex-direction: column;
